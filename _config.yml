@@ -1,3 +1,4 @@
-title: Sangye Tenzin Lama's Website
-description: CS1030 Project
-theme: minima
+title: "Sangye Tenzin Lama's Website"
+author: "Sangye Tenzin Lama"
+description: "A personal site about game development, basketball, storytelling, and student life."
+theme: jekyll-theme-minimal
